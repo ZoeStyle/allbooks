@@ -1,6 +1,6 @@
 ---
 name: Bug Report
-about: Crie um relatório para nos ajudar a correção de um problema de funcionalidade
+about: Crie um relatório para nos ajudar na correção de um problema existente / Crear un informe para ayudarnos a corregir un problema existente / Create a report to help us fix an existing problem
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: Feature
-about: Crie um relatório para nos ajudar a criar uma nova funcionalidade
+about: Crie um relatório para nos ajudar a criar uma nova funcionalidade / Crear un informe para ayudarnos a crear una nueva funcionalidad / Create a report to help us create a new feature
 
 ---
 

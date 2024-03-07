@@ -1,6 +1,6 @@
 ---
 name: Tasks
-about: Crie um relatório para nos ajudar a executar a tarefa de desenvolvimento
+about: Crie um relatório para nos ajudar a executar uma nova tarefa / Crear un informe para ayudarnos a completar una nueva tarea / Create a report to help us complete a new task
 
 ---
 
