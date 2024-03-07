@@ -1,6 +1,6 @@
 ---
-name: Nova Funcionalidade
-about: Crie um relatório para nos ajudar a criar uma nova funcionalidade
+name: Melhoria da Funcionalidade
+about: Crie um relatório para nos ajudar a melhorar a funcionalidade
 
 ---
 

@@ -1,6 +1,6 @@
 ---
-name: Nova Funcionalidade
-about: Crie um relatório para nos ajudar a criar uma nova funcionalidade
+name: Tarefa de Desenvolvimento
+about: Crie um relatório para nos ajudar a executar a tarefa de desenvolvimento
 
 ---
 
