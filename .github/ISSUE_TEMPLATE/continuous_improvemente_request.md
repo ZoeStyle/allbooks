@@ -1,5 +1,5 @@
 ---
-name: Melhoria da Funcionalidade
+name: Continuous Improvement
 about: Crie um relatório para nos ajudar a melhorar a funcionalidade
 
 ---

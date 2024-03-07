@@ -1,5 +1,5 @@
 ---
-name: Tarefa de Desenvolvimento
+name: Tasks
 about: Crie um relatório para nos ajudar a executar a tarefa de desenvolvimento
 
 ---

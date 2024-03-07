@@ -1,5 +1,5 @@
 ---
-name: Relatar Problema de Funcionalidade
+name: Bug Report
 about: Crie um relatório para nos ajudar a correção de um problema de funcionalidade
 
 ---

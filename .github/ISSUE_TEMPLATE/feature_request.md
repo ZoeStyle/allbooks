@@ -1,5 +1,5 @@
 ---
-name: Nova Funcionalidade
+name: Feature
 about: Crie um relatório para nos ajudar a criar uma nova funcionalidade
 
 ---
